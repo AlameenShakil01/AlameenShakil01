@@ -1,6 +1,7 @@
 ### Hi there, I'm Alameen Shakil! 👋
-
-![GitHub Banner](https://source.unsplash.com/1600x500/?technology,coding)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Hello,+I'm+Alameen+Shakil!;AI/ML+Enthusiast+%7C+Web+Developer;Building+Projects+%7C+Exploring+Tech;Always+learning+new+things!">
+</p>
 
 I am a **BTech CSE (A.I & M.L) student** passionate about AI, Machine Learning, Web Development, and building impactful projects.
 
